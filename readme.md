@@ -1,10 +1,9 @@
-#codeeducation
+# codeeducation
 
 Um desafio do módulo de Docker do curso Full Cycle. 
 
-# O Desafio
+## O Desafio
 
-````
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
 Você terá que publicar uma imagem no docker hub. Quando executarmos:
 
@@ -16,11 +15,11 @@ Se você perceber, essa imagem apenas realiza um print da mensagem como resultad
 
 Lembrando que a Go Lang possui imagens oficiais prontas, vale a pena consultar o Docker Hub.
 
-3) A imagem de nosso projeto Go precisa ter menos de 2MB =)
-````
+A imagem de nosso projeto Go precisa ter menos de 2MB =)
 
 ## Docker hub
 https://hub.docker.com/repository/docker/iamoreira/codeeducation
+
 ## Execução 
 
 ```shell
